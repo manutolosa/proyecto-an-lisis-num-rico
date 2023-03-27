@@ -1,1 +1,1 @@
-# Estenografía en audio: un intento
+# Estenografía en audio
