@@ -1,4 +1,4 @@
-# Estenografía en audio
-Cuando en ejecución, el programa pide si desea realizar un proceso de esteganografía, extraer un texto, o hacer pruebas de MSE y PSNR.
-El texto asociado puede encontrarse [aquí.](https://www.overleaf.com/read/wyghzytcyjhd)
-El algoritmo funciona haciendo un LSB pero en vez de realizarse los cambios sobre el bit menos significativo, suceden sobre un orden externo.
+# Audio stenography
+When running, the program asks if you want to perform a steganography process, extract a text, or do MSE and PSNR tests.
+Associated text can be found [here.](https://www.overleaf.com/read/wyghzytcyjhd)
+The algorithm works by doing an LSB but instead of making the changes on the least significant bit, they happen on an outer order.
